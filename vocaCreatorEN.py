@@ -39,9 +39,8 @@ for idx, line in enumerate(lines, 1):
 
 pdf.add_page()
 pdf.set_font("Noto", "", 12)
-pdf.set_fill_color(200, 220, 255)
 pdf.cell(60, 10, "English", border=1, align="C", fill=True)
-pdf.cell(130, 10, "뜻 (빈칸)", border=1, align="C", fill=True)
+pdf.cell(130, 10, "뜻", border=1, align="C", fill=True)
 pdf.ln()
 
 for idx, line in enumerate(lines, 1):
@@ -50,7 +49,7 @@ for idx, line in enumerate(lines, 1):
     except ValueError:
         continue
     pdf.cell(60, 10, f"{idx}. {eng}", border=1)  # 영어 단어 표기
-    pdf.cell(130, 10, "", border=1)
+    pdf.cell(130, 10, kor, border=1)
     pdf.ln()
 
 pdf.output("단어시험지영어버전.pdf")
