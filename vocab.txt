@@ -1,0 +1,147 @@
+require 필요/요구하다
+coal 석탄
+process 과정, 절차
+eco-friendly 친환경적인
+gasoline 휘발유
+release 풀어주다, 배출하다
+generate 발생시키다
+bury 묻다
+dig_out ~을 파내다
+source 원천
+tribe 부족
+logger 벌목꾼
+miner 광부
+credit 신용거래, 공적
+innovative 혁신적인
+approach 다가가다, 접근법
+headquarters 본사
+locate ~의 위치를 찾아내다
+illegal 불법적인
+operation 수술, 활동
+rainforest 열대우림
+attend 다니다, 참석하다
+map_out 배치/계획하다
+chemical 화학 물질, 화학적인
+pesticide 살충제
+shortage 부족
+potential 가능성이 있는, 잠재적인
+alternative 대안
+install 설치하다
+ancient 오래된, 고대의
+flood 물에 잠기게 하다, 홍수
+soil 흙, 토양
+waste 낭비하다
+even_worse 게다가
+beneath 아래에
+revive 회복/부활시키다
+yield 수확량
+severe 극심한
+fight_back 반격하다
+serve 도움이 되다
+ancestor 조상
+guilty 죄책감이 드는
+harsh 가혹한
+heartbeat 심장 박동
+reaction 반응
+immediately 즉시, 즉각
+physically 신체/육체적으로
+worsen 악화시키다
+response 반응, 대답
+in_particular 특히, 특별히
+think_through 철저히 생각하다
+deal_with 다루다
+violent 폭력적인
+take_time 천천히 하다, 시간이 걸리다
+content 만족하는
+present 주다, 보여주다
+overestimate 과대평가하다
+positive 긍정적인
+fool 속이다, 기만하다
+promote 촉진하다, 홍보하다
+achievement 업적, 성취
+satisfied 만족하는
+memorize 기억하다, 암기하다
+repetition 반복
+average 평균의, 보통의
+category 범주
+repeatedly 반복하여, 여러 차례
+arrangement 준비, 배열
+layout 배치
+realism 사실주의
+accuracy 정확, 정확도
+photography 사진(촬영술)
+capture 억류하다, 포착하다
+fine 미세한
+element 요소, 성분
+perception 인식, 직관
+subjective 주관적인
+agenda 의제
+prefer 선호하다
+realistically 현실적으로
+impressionist 인상파
+remain 남다, 여전히 ~이다
+factor 요인
+evolution 진화, 발전
+superior 우수한
+trait 특성
+offspring 자식, 후손
+significant 중요한
+shrink 줄어들다
+individual 개인, 개체(의)
+no_longer 더 이상 ~아닌
+evidence 증거, 증명, 근거
+generation 세대
+specialist 전문가, 전문의
+patient 환자
+filter_out 걸러내다
+collaborative 공동의
+multiple 많은, 다양한
+accompany 동반하다
+interfere 방해하다
+appreciation 감사
+combine 결합하다
+witness 목격하다
+theater 극장, 연극
+play 희곡, 연극
+vision 장면, 시각
+obstacle 장애(물)
+barrier 장벽
+syndrome 증후군
+prey 먹이
+attitude 태도
+spouse 배우자
+impact 영향, 충격
+maintenance 유지
+drop-out 중도 탈락
+positional 위치상의, 입장적인
+bargaining 흥정, 협상
+negotiation 협상
+skilled 능숙한, 노련한
+take_place (사건 등이) 일어나다
+observe 관찰하다, 보다
+unpleasant 불쾌한, 불편한
+literary 문학의
+temporarily 일시적으로
+summary 요약, 개요
+stereotype 고정 관념
+religion 종교
+theory 이론, 생각
+participant 참가자
+tempting 솔깃한
+progress 진전, 진척
+reinforce 강화하다
+sustainable 지속 가능한
+behavior 행동, 품행
+work_out 운동하다, 잘 풀리다
+rewarding 보람 있는, 도움 많이 되는
+meanwhile 그 동안에, 한편
+poverty 빈곤
+disaster 재난
+continuous 계속되는
+analyze 분석하다
+presence 존재
+rural 시골의
+probability 개연성 (있는 일)
+reflective 반사하는
+attempt 시도
+yard 마당, 운동장
